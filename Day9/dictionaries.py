@@ -24,8 +24,3 @@ for key in student_scores:
 
 # 🚨 Don't change the code below 👇
 print(student_grades)
-
-
-
-
-
